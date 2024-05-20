@@ -1,0 +1,9 @@
+{
+    "name": "Chrome Web app manifest DevTools repro",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png"
+        }
+    ]
+}
